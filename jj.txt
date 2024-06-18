@@ -10,3 +10,4 @@ Salutare Lume
 >>>>>>> sorin
 Salutare grupa QA
 Buna ziua
+Salutare dragi prieteni
