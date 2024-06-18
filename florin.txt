@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+=======
+Privet Florin
+Salutare Natiune
+>>>>>>> 6a3bc2b (first commit)
