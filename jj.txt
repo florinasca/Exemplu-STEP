@@ -1,2 +1,12 @@
+<<<<<<< HEAD
 salutare
 Salutare Lume
+=======
+salut Irina
+salut Sorin
+salutare STEP IT
+Salutare Natiune
+Salutare Lume
+>>>>>>> sorin
+Salutare grupa QA
+Buna ziua
