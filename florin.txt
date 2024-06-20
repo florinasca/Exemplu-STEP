@@ -1,5 +1,14 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+Privet Florin Lume Draga
+Salutare Natiune
+>>>>>>> 6a3bc2b (first commit)
 =======
 Privet Florin
 Salutare Natiune
->>>>>>> 6a3bc2b (first commit)
+Salut Sorin
+=======
+>>>>>>> sorin
+>>>>>>> master
+Salutare Grupa 2 QA 2412
